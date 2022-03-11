@@ -14,5 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference. -->
-jobsy
-<img src="https://github.com/keyur70/jobsy_ui/blob/main/assets/images/login_screen.png" alt="Home Screen" height="250"/>.
+
+<img src="https://github.com/keyur70/jobsy_ui/blob/main/assets/images/login_screen.png" alt="Home Screen" height="250"/>.  <img src="https://github.com/keyur70/jobsy_ui/blob/main/assets/images/home_screen.png" alt="Home Screen" height="250"/>.  <img src="https://github.com/keyur70/jobsy_ui/blob/main/assets/images/detail_screen.png" alt="Home Screen" height="250"/>.  <img src="https://github.com/keyur70/jobsy_ui/blob/main/assets/images/setting_screen.png" alt="Home Screen" height="250"/>.
